@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1001436072478",
+    "project_id": "mewt-mewmotion",
+    "storage_bucket": "mewt-mewmotion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001436072478:android:995833e060bb157fc93c0f",
+        "android_client_info": {
+          "package_name": "com.mewmotion.mewt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001436072478-le0r49724pc5l41mbt2t53j6ff77cj61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH0xF_jIiF_kNhVTXs11jt2jU9okXkW7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001436072478-le0r49724pc5l41mbt2t53j6ff77cj61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
